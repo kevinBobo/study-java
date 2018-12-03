@@ -4,7 +4,6 @@ target/*
 
 */target/*
 logs/
-application-local.properties
 
 .project
 .classpath
